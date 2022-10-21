@@ -4,13 +4,13 @@
 <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawikiprotich&label=Profile%20views&color=0e75b6&style=flat" alt="lawikiprotich" /> </p>
 
-- 🔭 I’m currently working on [The_Monitor](https://github.com/lawiKiprotich/The_monitor.git)
+- 🔭 I’m currently working on tweeter-bot-python
 
-- 🌱 I’m currently learning **Django ReactJs Java**
+- 🌱 I’m currently learning **Python ReactJs Java JetpackCompose**
 
-- 🤝 I’m looking for help with **Kivy - For android app development**
+- 🤝 I’m looking for help with **Android UI**
 
-- 💬 Ask me about **Js Python CSS3**
+- 💬 Ask me about **Js Python CSS**
 
 - 📫 How to reach me **fleeklawi@gmail.com**
 
