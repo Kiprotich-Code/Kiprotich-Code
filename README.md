@@ -1,20 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Lawi Kiprotich</h1>
+<h1 align="center">Hi 👋, I am Lawi Kiprotich</h1>
 <h3 align="center">Code, Collaborate, Grow</h3>
 <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawikiprotich&label=Profile%20views&color=0e75b6&style=flat" alt="lawikiprotich" /> </p>
 
 - 🔭 I’m currently working on tweeter-bot-python
 
-- 🌱 I’m currently learning **Python ReactJs Java JetpackCompose**
+- 🌱 I’m currently learning **Django REST Framework(DRF) API's Python C**
 
-- 🤝 I’m looking for help with **Android UI**
+- 🤝 I’m looking for help with **Django DevOps Docker ML**
 
-- 💬 Ask me about **Js Python CSS**
+- 💬 Ask me about **Javascript C Python Bootstrap ReactJs**
 
-- 📫 How to reach me **fleeklawi@gmail.com**
+- 📫 How to reach me **[fleeklawi@gmail.com](https://www.linkedin.com/in/lawi-kiprotich-aa635921a/)**
 
-- ⚡ Fun fact **I am a lifelong learner, try me !**
+- ⚡ Fun fact **I am a long time-learner, with a strong foundational knowledge in Python, and an eye for critical approach to tech solutions. I am looking to get my hands-on open source contributions that would utilise my skills, whilst enable me to grow and meet new people. I am all ears, let me know how we can change the world together.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
