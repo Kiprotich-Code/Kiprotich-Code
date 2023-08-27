@@ -4,13 +4,13 @@
 <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kiprotich-Code&label=Profile%20views&color=0e75b6&style=flat" alt="Kiprotich-Code" /> </p>
 
-- 🔭 I’m currently working on **Backend Web Solutions using Django, Bootstrap(UI), MYSQL(Database)**
+- 🔭 I’m currently working on **Backend Web Solutions using Django | Bootstrap(UI) | MYSQL(Database)**
 
-- 🌱 I’m currently learning **Django REST Framework(DRF) API's Python C**
+- 🌱 I’m currently learning **Django REST Framework(DRF) | API's | Python | C**
 
-- 🤝 I’m looking for help with **Django DevOps Docker ML**
+- 🤝 I’m looking for help with **Django | DevOps | Docker | ML**
 
-- 💬 Ask me about **Javascript C Python Bootstrap ReactJs**
+- 💬 Ask me about **Javascript | C | Python | Bootstrap | ReactJs**
 
 - 📫 How to reach me **[fleeklawi@gmail.com](https://www.linkedin.com/in/lawi-kiprotich-aa635921a/)**
 
