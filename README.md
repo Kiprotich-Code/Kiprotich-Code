@@ -4,7 +4,7 @@
 <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kiprotich-Code&label=Profile%20views&color=0e75b6&style=flat" alt="Kiprotich-Code" /> </p>
 
-- 🔭 I’m currently working on **REST API's | DRF | BACKED DEVELOPMENT | PYTHON**
+- 🔭 I’m currently working on  **Django | DRF | Backend Web Development | Python**
 
 - 🌱 I’m currently learning **Webscrapping | JavaScript | Next.js | IOT**
 
