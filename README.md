@@ -1,5 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kiprotich-Code&label=Profile%20views&color=0e75b6&style=flat" alt="Kiprotich-Code" /> </p>
+
 - **Software Architect | Backend Developer | DevOps | Python | C++ | Making an impact one commit at a time!**
 
-- 💬 Writes about TECH on **[Fleekwrites](https://www.fleekwrites.blog/)**
+- Writes about random Tech topics on **[Medium](https://medium.com/@LawiKiprotich)**
 
-- 📫 How to reach me **[fleeklawi@gmail.com](https://www.linkedin.com/in/lawi-kiprotich-aa635921a/)**
+- Drop a message on **[fleeklawi@gmail.com]()**
