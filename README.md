@@ -1,4 +1,4 @@
-- **DevOps | Docker | Kurbenetes | Containerization | Design thinking**
+- **Software Architect | Backend Developer | DevOps | Python | C++ | Making an impact one commit at a time!**
 
 - 💬 Writes about TECH on **[Fleekwrites](https://www.fleekwrites.blog/)**
 
