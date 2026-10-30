@@ -17,4 +17,4 @@ document-processing systems with measured evaluations.
 -->
 
 ### Contact
-[Portfolio](https://kiprotich-code.github.io) · [LinkedIn](https://www.linkedin.com/in/lawi-kiprotich-a0b3463aa/) · [fleeklawi@gmail.com]
+[Portfolio](https://kiprotich-code.github.io) · [LinkedIn](https://www.linkedin.com/in/lawi-kiprotich-a0b3463aa/) ·
